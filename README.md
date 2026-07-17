@@ -108,7 +108,7 @@ Ces réglages permettent de tester rapidement différents comportements :
 
 &#x20;  ```bash
 
-&#x20;  git clone <URL\_DU\_REPO>
+&#x20;  git clone <https://github.com/Maxiltron/UE5-VehicleMovement-TechnicalTest.git>
 
 
 
