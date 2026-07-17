@@ -66,7 +66,7 @@ Voici les paramètres disponibles :
 
 
 
-!\[Réglages du véhicule](Docs/VehicleSettings.png)
+![Réglages du véhicule](Docs/VehicleSettings.png)
 
 
 
